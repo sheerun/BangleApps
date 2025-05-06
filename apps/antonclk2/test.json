@@ -1,5 +1,5 @@
 {
-  "app" : "antonclk",
+  "app" : "antonclk2",
   "tests" : [{
     "description": "Check memory usage after setUI",
     "steps" : [
